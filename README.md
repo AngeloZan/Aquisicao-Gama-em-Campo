@@ -14,3 +14,8 @@ https://www.python.org/downloads/
 O QGIS pode ser bastante útil para interpretar os dados coletados.
 
 https://www.qgis.org/download/
+
+### DPPMCA
+O DPPMCA é o software da Amptek para leitura e processamento de espectros gama.
+
+https://www.amptek.com/software/dp5-digital-pulse-processor-software/dppmca-display-acquisition-software
