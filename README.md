@@ -11,7 +11,7 @@ Este projeto conta com um arquivo executável, para que não seja necessária a 
 https://www.python.org/downloads/
 
 ### QGIS
-O QGIS pode ser bastante útil para interpretar os dados coletados.
+O QGIS será bastante útil para interpretar os dados coletados.
 
 https://www.qgis.org/download/
 
