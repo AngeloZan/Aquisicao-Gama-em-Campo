@@ -24,4 +24,5 @@ O DPPMCA é o software da Amptek para leitura e processamento de espectros gama.
 O QField é um aplicativo de celular que pode ser utilizado para registro de coordenadas GPS, gerando um arquivo compatível com o QGIS.
 
 [QField para Android](https://play.google.com/store/apps/details?id=ch.opengis.qfield&hl=pt_BR&pli=1)
+
 [QField para IOS](https://apps.apple.com/br/app/qfield-for-qgis/id1531726814)
