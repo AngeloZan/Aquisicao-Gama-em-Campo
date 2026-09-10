@@ -26,3 +26,8 @@ O QField é um aplicativo de celular que pode ser utilizado para registro de coo
 [QField para Android](https://play.google.com/store/apps/details?id=ch.opengis.qfield&hl=pt_BR&pli=1)
 
 [QField para IOS](https://apps.apple.com/br/app/qfield-for-qgis/id1531726814)
+
+### Editor de planilhas
+Você também vai precisar de um editor de planilhas de sua preferência. Uma opção open source é o LibreOffice Calc:
+
+[Download do LibreOffice](https://www.libreoffice.org/download/)
